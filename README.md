@@ -1,5 +1,10 @@
+#Jose Corril 
+
 # Assignment #4: Books API
 This repository contains your starter code for the Books API assignment.
+
+http://localhost:3000/api/books
+http://localhost:3000/api/books/1
 
 ## Getting Started
 1. Clone this repository to your local machine
