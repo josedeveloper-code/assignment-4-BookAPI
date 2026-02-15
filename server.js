@@ -11,6 +11,7 @@ let books = [
   { "id": 4, "title": "Stripped Down", "author": "Bunny XO", "genre": "Rated R", "copiesAvailable": 24 },
   { "id": 5, "title": "House The Long Lived King", "author": "Donna Terrace", "genre": "Comics", "copiesAvailable": 45 },
   { "id": 6, "title": "Dogman", "author": "Dav Pilkey", "genre": "Comics", "copiesAvailable": 100 }
+  
 ];
 
 // --- ROUTES ---
